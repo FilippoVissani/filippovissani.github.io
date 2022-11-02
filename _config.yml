@@ -86,10 +86,10 @@ footer:
 #      url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # _about
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true
